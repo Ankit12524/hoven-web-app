@@ -42080,7 +42080,7 @@ m=q.ay
 l=$.aCx().Dv()
 k=t.z
 s=4
-return A.O(p.uP(A.T(["name",o,"email",n,"message",m,"timestamp",new A.mM(l,l),"image",q.ch],t.N,k)),$async$zC)
+return A.O(p.uP(A.T(["name",o,"contact",n,"message",m,"timestamp",new A.mM(l,l),"image",q.ch],t.N,k)),$async$zC)
 case 4:l=q.c
 l.toString
 A.aKE(new A.aws(),l,k)
