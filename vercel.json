@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/scan",
+      "destination": "https://hoven.co.in",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     { "source": "/(.*)",
       "destination": "/index.html" }
